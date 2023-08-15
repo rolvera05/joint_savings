@@ -50,9 +50,7 @@ Ensure you have Python and required libraries installed, and the file "fintech_f
 
 ## Screenshots
 
-![Account Balance](Images/screenshots/account_balance.png)
-![Transaction Details](Images/screenshots/transaction_details.png)
-![Recipient's Balance](Images/screenshots/recipient_balance.png)
+![Transaction Details](Execution_Results/transaction_details1.png)
 
 ---
 
